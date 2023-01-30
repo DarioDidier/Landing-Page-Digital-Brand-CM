@@ -91,6 +91,10 @@ h1{
     h1{
         margin-top: 4vh;
     }
+    
+    .copy{
+        font-size: 14px;
+    }
 
 }
 
